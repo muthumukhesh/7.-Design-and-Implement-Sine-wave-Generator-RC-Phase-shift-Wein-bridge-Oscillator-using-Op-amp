@@ -64,16 +64,29 @@ Rf = 15K *2=30KΩ
 
 
   **CIRCUIT DIAGRAM**
+<img width="1600" height="1425" alt="image" src="https://github.com/user-attachments/assets/0ef34c84-820c-4b11-a669-b8d0b61f9720" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/b91014bc-0d15-45a0-b1aa-8bd178aef030" />
 
 
   **TABULATION:**
  
+<img width="1600" height="687" alt="image" src="https://github.com/user-attachments/assets/5cfb462d-c51f-4c4f-b65c-0a303a4c9981" />
 
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/16cca1c4-1bcb-427d-b89d-2c172353c634" />
 
+WIEN BRIDGE OSCILLATOR
 
+CIRCUIT DIAGRAM
+<img width="1600" height="1241" alt="image" src="https://github.com/user-attachments/assets/28779c1f-40e0-43ba-b221-f8ce43b2f273" />
+
+MODEL GRAPH:
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/614b3978-6188-496f-977c-01c5baf16bf8" />
+TABULATION:
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/e2e9de72-3e69-464c-9b8a-3975b59c4df1" />
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/6a5b1199-625a-4981-b3a0-4e61905f91c7" />
 
 **RESULT:**
 Thus a RC Phase Shift and Wien Bridge oscillators designed and tested using op-amp IC 741.
